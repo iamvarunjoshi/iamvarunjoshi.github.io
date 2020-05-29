@@ -8,8 +8,9 @@
 
 
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Bulleted
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions.
+#is used to make headings
 
 ```markdown
 Syntax highlighted code block
