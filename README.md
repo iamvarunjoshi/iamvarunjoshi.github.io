@@ -7,10 +7,10 @@
 ### Week 4 Solutions
 
 
-
--Bulleted
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions.
-#is used to make headings
+### weekly Goals
+- [ ] Create my webpage
+- [ ] Make a newresume
+- [ ] Learn about styling int Github.
 
 ```markdown
 Syntax highlighted code block
