@@ -2,7 +2,7 @@
 
 ## Hi everyone find my solutions to coursera's webdev course
 
-### Week 2 Submission[]()
+### Week 2 Submission[](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#lists)
 ### Week 3 Submission[]()
 ### Week 4 Solutions[]()
 
