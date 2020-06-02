@@ -2,7 +2,11 @@
 
 ## Hi everyone find my solutions to coursera's webdev course
 
+## My Github Page
+[My Github Page](https://iamvarunjoshi.github.io/)
+
 ### Week 2 Submission
+[Link to Week-2-Submission](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/Week2-Solutions/submission-week-2.html)
 ### Week 3 Submission
 ### Week 4 Solutions
 
