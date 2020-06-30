@@ -1,6 +1,7 @@
 # Hi everyone!
 
-# I am Varun Joshi. Greetings from India!
+# I am Varun Joshi. 
+## Greetings from India!
 
 I am an Engineering Student and UN Volunteer. I am exploring the vast world of programming and Web Development.
 I am well versed with programming , DS and Algorithms. Apart from Programming I have good commuication skills and i can 
