@@ -17,7 +17,7 @@ good team player who can give quality work in less time.
   
 ## Check out my Web Development Work  
 ### Uisng HTML and CSS.
-  * [Simple HTML and CSS webpage: ](https://iamvarunjoshi.github.io/Week2-Solutions/index2.md)
+  * [Simple HTML and CSS webpage: ](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/Week2-Solutions/submission-week-2.html)
   * [Responsive Website made using Bootstrap: ](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/assignment3/index.html)
 
 ## Connect With me:
