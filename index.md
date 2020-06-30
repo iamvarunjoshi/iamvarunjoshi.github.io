@@ -22,4 +22,4 @@ good team player who can give quality work in less time.
 
 ## Connect With me:
 * [LinkedIn ](https://www.linkedin.com/in/varun-joshi-32b04916a/)
-* [Email]( "< a href="mailto:varunjoshibeele17@pec.edu.in">John< /a>")
+* [Email](mailto:varunjoshibeele17@pec.edu.in)
