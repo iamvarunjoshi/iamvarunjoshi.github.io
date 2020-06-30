@@ -1,6 +1,6 @@
 # Hi everyone!
 
-# I am Varun Joshi. 
+## I am Varun Joshi. 
 ## Greetings from India!
 
 I am an Engineering Student and UN Volunteer. I am exploring the vast world of programming and Web Development.
