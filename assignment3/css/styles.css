@@ -70,6 +70,11 @@ body {
 	  box-sizing: border-box;
 
 }
+#main-content h1{
+	font-weight:bold;
+	font-family: 'Oxygen', sans-serif;
+
+}
 #main-content h2{
 	color:#577c3e;
 	font-weight:bold;
