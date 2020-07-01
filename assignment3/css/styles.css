@@ -38,7 +38,7 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: white;
   text-align: center;
 }
 .navbar-brand h1:hover,#nav-list a:hover {
@@ -51,7 +51,7 @@ body {
   font-size: 1.8em;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 1px solid white;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
@@ -67,8 +67,7 @@ body {
 	margin-right:auto;
 	margin-left:auto;
 	padding:17px;
-	  box-sizing: border-box;
-
+	box-sizing: border-box;
 }
 #main-content h1{
 	font-weight:bold;
@@ -77,10 +76,31 @@ body {
 }
 #main-content h2{
 	color:#577c3e;
-	font-weight:bold;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
 }
-
-
+.mainheading{
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+	margin:auto;
+}
+#map-tile{
+	position:relative;
+}
+#map-tile span{
+	position:absolute;
+	text-align:center;
+	background-color:black;
+	opacity:0.8;
+	bottom: 0;
+    right: 0;
+    width: 100%;
+	text-transform:uppercase;
+	font-size:1.6em;
+	color:white;
+}
 
 
 /*Media Quereies*/
