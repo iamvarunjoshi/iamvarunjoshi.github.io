@@ -10,7 +10,7 @@
 ### Week 3 Submission
 [Link to Week 3 Submission](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/assignment3/index.html)
 ### Week 4 Solutions
-
+[Link to Week 4 Submission](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/assignment-4/index.html)
 
 ### weekly Goals
 - [ ] Create my webpage
