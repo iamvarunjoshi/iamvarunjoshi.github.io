@@ -14,11 +14,12 @@ good team player who can give quality work in less time.
 - [Tech Dev's Repository for SDE Problems](https://github.com/shrinathjoshi/Amazon-SDE-Test-Series)
 
 ### CAMAAY
+
 #### Program to make potable water more accesible 
-  * I am working as an Volunteer to make Potable water More acessible in Cameroon.
+  - I am working as an Volunteer to make Potable water More acessible in Cameroon.
   
 ####  Solid Wate Management
-  * I am working a volunteer to solve problem of solid wate management in Cameroon.
+  - I am working a volunteer to solve problem of solid wate management in Cameroon.
   
 ## Check out my Web Development Work  
 ### Uisng HTML and CSS.
