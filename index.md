@@ -9,6 +9,10 @@ easliy work in a team due to my experience of working as an UN volunteer. My tec
 good team player who can give quality work in less time.
 
 ## My Experience
+### Tech Dev 
+#### We are a small group which is doing open source contribution to solving DS & Algo Problems
+- [Tech Dev's Repository for SDE Problems](https://github.com/shrinathjoshi/Amazon-SDE-Test-Series)
+
 ### CAMAAY
 #### Program to make potable water more accesible 
   * I am working as an Volunteer to make Potable water More acessible in Cameroon.
