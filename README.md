@@ -7,7 +7,7 @@
 ## [My Github Repos](https://iamvarunjoshi.github.io/)
 
 
-## Web Development
+## Web Development Work
 ### Week 2 Submission
 [Link to Week-2-Submission](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/Week2-Solutions/submission-week-2.html)
 ### Week 3 Submission
