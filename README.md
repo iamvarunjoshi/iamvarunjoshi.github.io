@@ -16,6 +16,9 @@
 [Link to Week-4 Submission](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/assignment-4/index.html)
 ### Week 5 Submission
 [Link to Week-5 Submission](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/assignment5/assignment5-solution-starter/index.html)
+### Simple Game
+[Simple HTML CSS JS game](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/JavaScript_Game/Index.html)
+
 
 ### weekly Goals
 - [ ] Create my webpage
