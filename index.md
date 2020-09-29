@@ -25,6 +25,7 @@ good team player who can give quality work in less time.
 ### Uisng HTML and CSS.
   * [Simple HTML and CSS webpage: ](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/Week2-Solutions/submission-week-2.html)
   * [Responsive Website made using Bootstrap: ](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/assignment3/index.html)
+  * [Responsive Website fetchig data from server](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/assignment5/assignment5-solution-starter/index.html)
 
 ## Connect With me:
 * [LinkedIn ](https://www.linkedin.com/in/varun-joshi-32b04916a/)
