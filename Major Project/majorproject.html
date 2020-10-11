@@ -1,0 +1,141 @@
+<!DOCTYPE html> 
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Energicon</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+  </head>
+      
+<body> 
+   <header>
+    <nav id="header-nav" id="top" class="navbar navbar-default">
+      <div class="container">
+        <div class="navbar-header">	
+			<div class="navbar-brand">
+                
+         <a href="majorproject.html" class="pull-left visible-md visible-lg">
+            <div id="logo-img" alt="Logo image"></div>
+          </a>
+                
+          <div class="navbar-brand ">
+            <a href="majorproject.html"><h1>Energicon</h1></a>
+          </div>
+                
+			</div>
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>			
+		</div>
+		
+		 <div id="collapsable-nav" class="collapse navbar-collapse">
+           <ul id="nav-list" class="nav navbar-nav navbar-right ">
+            <li>
+              <a href="#chefspec">
+                <span class="glyphicon glyphicon-briefcase"></span><br class="hidden-xs"> About Us</a>
+            </li>
+            <li>
+            <a href="tel:410-602-5008">
+                <span class="glyphicon glyphicon-envelope"></span><br class="hidden-xs"> Contact</a>
+            </li>
+          </ul><!-- #nav-list -->
+        </div><!-- .collapse .navbar-collapse -->
+		
+	  </div>	
+	</nav><!-- #header-nav -->
+ </header><!-- #header-end -->
+  
+    <div id="main-content" class="container">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="dessert"> 
+	<div class="content-styling">	
+   <h2 class="text-center ">Login </h2> 
+    <!--Step 1 : Adding HTML-->
+    <button onclick="document.getElementById('id01').style.display='block'"  class="vertical-center " >Login</button> 
+  
+    <div id="id01" class="modal"> 
+  
+        <form class="modal-content animate" action="/action_page.php"> 
+            <div class="imgcontainer"> 
+                <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span> 
+                <img src= "image.jpg" alt="Avatar" class="avatar"> 
+            </div> 
+  
+            <div class="container"> 
+                <label><b>Username</b></label> 
+                <input type="text" placeholder="Enter Username" name="uname" required> 
+  
+                <label><b>Password</b></label> 
+                <input type="password" placeholder="Enter Password" name="psw" required> 
+                <button onclick="location.href='maincontent.html'" type="button" >Continue</button>               
+                <input type="checkbox" checked="checked"> Remember me 
+            </div> 
+  
+            <div class="container" style="background-color:#f1f1f1"> 
+                <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button> 
+                <span class="psw">Forgot <a href="#">password?</a></span> 
+            </div> 
+        </form> 
+    </div> 
+	</div>
+	</div>
+        
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="chefspec">
+	<div class="content-styling">	 
+	 <h2 class="text-center">About Us</h2>
+	   Founded in 1994, Energicon  is a company which operates in 3 key business
+        areas around vertical markets of telecom, storage and green mobility. We are a vertically
+        integrated company with over 20 years of experience in designing, engineering and
+        manufacturing products and solutions for needs of today and future.
+        “EV Motors India has been set-up to provide “Energy as a Service” solution to e-mobility consumers by leveraging EV Charging & Energy Storage infrastructure developed on our unique cutting edge technology platforms.
+        “EV Motors India has been set-up to provide “Energy as a Service” solution to e-mobility consumers by leveraging EV Charging & Energy Storage infrastructure developed on our unique cutting edge technology platforms.
+        “EV Motors India has been set-up to provide “Energy as a Service” solution to e-mobility consumers by leveraging EV Charging & Energy Storage infrastructure developed on our unique cutting edge technology platforms.
+	<a href="#top" class="visible-xs">Go to Top</a>
+	</div>
+	</div>
+  </div><!-- End of #main-content -->
+
+  <footer class="panel-footer">
+    <div class="container">
+      <div class="row">
+        <section id="hours" class="col-sm-4">
+          <span>Maintenance Hours:</span><br>
+          Sun-Thurs: 11:15am - 10:00pm<br>
+          Fri: 11:15am - 2:30pm<br>
+          Saturday Closed
+          <hr class="visible-xs">
+        </section>
+        <section id="address" class="col-sm-4">
+          <span>Address:</span><br>
+          19308 Promenade Dr, Leesburg,<br>
+          VA 20176
+          <p>* Free Installation.</p>
+          <hr class="visible-xs">
+        </section>
+        <section id="testimonials" class="col-sm-4">
+          <p>"If you are looking for a way to charge your car at home, then the ChargePoint EV Charger is one of the models that you should consider.Compatible with electric cars such as Tesla, Bolt, Nissan, Honda, and others. Also, the charger has been designed with the capacity of providing up to 12kW as it is able to charge your vehicle with up to 40-50-amps when it’s connected to a NEMA 6-50 or NEMA 14-50 240-volt outlet."</p>
+        </section>
+      </div>
+      <div class="text-center">&copy; Copyright Energicon</div>
+    </div>
+  </footer>
+    
+    <script> 
+        var modal = document.getElementById('id01'); 
+        window.onclick = function(event) { 
+            if (event.target == modal) { 
+                modal.style.display = "none"; 
+            } 
+        } 
+    </script> 
+  <script src="js/jquery-2.1.4.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/script.js"></script>
+</body> 
+  
+</html> 
