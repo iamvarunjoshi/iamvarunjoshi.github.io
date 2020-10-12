@@ -18,6 +18,8 @@
 [Link to Week-5 Submission](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/assignment5/assignment5-solution-starter/index.html)
 ### Simple Game
 [Simple HTML CSS JS game](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/JavaScript_Game/Index.html)
+### College Porject
+[Solar Powered Ev Charging station](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/Major%20Project/maincontent.html#ourteam)
 
 
 ### weekly Goals
