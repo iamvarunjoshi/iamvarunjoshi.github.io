@@ -19,7 +19,7 @@
 ### Simple Game
 [Simple HTML CSS JS game](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/JavaScript_Game/Index.html)
 ### College Porject
-[Solar Powered Ev Charging station](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/Major%20Project/maincontent.html#ourteam)
+[Solar Powered Ev Charging station](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/Major%20Project/majorproject.html)
 
 
 ### weekly Goals
