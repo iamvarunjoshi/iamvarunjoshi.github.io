@@ -129,6 +129,7 @@
     } 
 /** Rest of the Body**/
 body {
+  background: linear-gradient(120deg,#696969 10%,white 60%,blue 20%); 
   font-size: 16px;
   color: white;
   background-color: #494D5F;
@@ -143,7 +144,7 @@ body {
   margin: 10px 15px 10px 10px;
 }
 #header-nav {
-  background-color: #557A95;
+  background: linear-gradient(120deg,#F0FFFF 10%,#A9A9A9 60%,black 30%); 
   border-radius: 0;
   border: 0;
 }
@@ -394,8 +395,22 @@ body {
     } 
 
 
+/**Cards **/
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
 
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
 
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
 
 
 
