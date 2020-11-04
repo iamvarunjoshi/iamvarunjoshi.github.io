@@ -7,6 +7,7 @@
         border: 1px solid #ccc; 
         box-sizing: border-box; 
     } 
+    
     /*set a style for the buttons*/ 
     button { 
         background-color: #4CAF50; 
@@ -134,10 +135,20 @@ body {
   background-color: #494D5F;
   font-family: 'Oxygen', sans-serif;
 }
+.car-image{
+   background: linear-gradient(-40deg,#fa7c30 30%,rgba(0,0,0,0)30%);    
+}
+.content-style{
+    color: #fff;
+    background: -webkit-linear-gradient(110deg, #fa7c30 33%, rgba(0, 0, 0, 0) 33%), -webkit-linear-gradient(110deg, white 66%, green 66%);
+    background: -o-linear-gradient(110deg, #fa7c30 33%, rgba(0, 0, 0, 0) 33%), -o-linear-gradient(110deg, white 66%, green 66%);
+    background: -moz-linear-gradient(110deg, #fa7c30 33%, rgba(0, 0, 0, 0) 33%), -moz-linear-gradient(110deg, white 66%, green 66%);
+    background: linear-gradient(110deg, #fa7c30 33%, rgba(0, 0, 0, 0) 33%), linear-gradient(110deg, white 66%, green 66%);
+}
 
 /** HEADER **/
 #logo-img {
-  background: url('../logoimage.png') no-repeat;
+  background: url('../logo%20new.png') no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 10px;
@@ -221,6 +232,7 @@ body {
 	margin-left:auto;
 	padding:17px;
 	box-sizing: border-box;
+    border-radius: 0.25em;
 }
 #main-content h1{
 	font-weight:bold;
@@ -472,3 +484,6 @@ a{text-decoration:none}
 .main-timeline .timeline-content:before,.main-timeline .timeline:nth-child(2n) .timeline-content:before{left:99px}
 .main-timeline .timeline-content:after,.main-timeline .timeline:nth-child(2n) .timeline-content:after{left:65px}
 }
+
+/*Chart*/
+
