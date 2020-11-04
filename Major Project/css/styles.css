@@ -365,8 +365,8 @@ body {
     top: 5px;
     left: 5px;
     text-align: center;
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     border-radius: 100%;
     background-color: #E6F4F7;
 }
@@ -374,8 +374,8 @@ body {
 .active-border{
     position: relative;
     text-align: center;
-    width: 210px;
-    height: 210px;
+    width: 260px;
+    height: 260px;
     border-radius: 100%;
     color:black;
     background-color:#39B4CC;
