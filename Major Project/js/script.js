@@ -35,3 +35,35 @@
                        loopit("nc");
                 },1);
             }
+
+
+/*Chart*/
+window.onload = function () {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+	animationEnabled: true,
+	theme: "light2",
+	title:{
+		text: "Your Charging History"
+	},
+	data: [{        
+		type: "line",
+      	indexLabelFontSize: 16,
+		dataPoints: [
+			{ y: 45 },
+			{ y: 41},
+			{ y: 52, indexLabel: "\u2191 highest",markerColor: "red", markerType: "triangle" },
+			{ y: 46 },
+			{ y: 45 },
+			{ y: 50 },
+			{ y: 48 },
+			{ y: 48 },
+			{ y: 41 , indexLabel: "\u2193 lowest",markerColor: "DarkSlateGrey", markerType: "cross" },
+			{ y: 50 },
+			{ y: 48 },
+			{ y: 51 }
+		]
+	}]
+});
+chart.render();
+}
