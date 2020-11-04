@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/styles.css">
     <link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
       
 <body> 
@@ -65,18 +66,38 @@
  </header><!-- #header-end -->
     
     <div id="main-content" class="container">
-        <h1 class="mainheading text-center">Welcome User</h1>
-        
+	    <!--User Panel-->
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="chefspec">	 
+        <div class="profile-header">
+                <div class="user-detail">
+                    <div class="user-image">
+                        <img src="http://nicesnippets.com/demo/up-profile.jpg" class="img-responsive">
+                    </div>
+                    <div class="user-data">
+                        <h2>Smith Alexander</h2>
+                        <span class="post-label" style="color:blue">Admin</span>
+                        <span class="post-label" style="color:blue">Speaker</span>
+                        <span class="post-label" style="color:blue">AMA</span>
+                        <p>Happy User of <strong>Energicom</strong><br>
+                        <i class="fa fa-map-marker" aria-hidden="true"></i>  Boston, MA, United States
+                        </p>
+                    </div>
+                    <div class="social-icons">
+                        <i class="fa fa-facebook"></i>
+                        <i class="fa fa-twitter"></i>
+                        <i class="fa fa-linkedin"></i>
+                        <i class="fa fa-google"></i>
+                        <i class="fa fa-instagram"></i>
+                        <a href="#" type="button" class="msg-btn"><i class="fa fa-envelope-o" aria-hidden="true"></i>Send Message</a>
+                    </div>
+                </div>
+            </div>
+	</div>
+	    
         <!--Made for India --> 
     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="chefspec">
 	<div class="content-styling content-style">	 
 	 <h2 class="text-center">Made for India</h2>
-	   Founded in 1994, Energicon  is a company which operates in 3 key business
-        areas around vertical markets of telecom, storage and green mobility. We are a vertically
-        integrated company with over 20 years of experience in designing, engineering and
-        manufacturing products and solutions for needs of today and future.
-
-	<a href="#top" class="visible-xs">Go to Top</a>
 	</div>
 	</div>
         
@@ -105,6 +126,12 @@
             <div class="content-styling">	 
                 <div id="chartContainer" style="height: 370px; width: 100%;"></div>
                 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>            
+            </div>
+        </div>
+         <!--Prior Month Saving-->
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="chefspec">
+            <div class="content-styling">	 
+                <div id="chartContainer2" style="height: 370px; max-width: 920px; margin: 0px auto;"></div>
             </div>
         </div>
         
@@ -228,6 +255,7 @@ Over the past few years, many government bodies, automotive manufactures and oth
   <script src="js/jquery-2.1.4.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/script.js"></script>
+  <script src="js/canvasjs.min.js"></script>            
 </body> 
   
 </html> 
