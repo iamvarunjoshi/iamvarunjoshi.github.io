@@ -290,22 +290,6 @@ body {
     margin-right: 5px;
 	color:white;
   }
-
-  #call-btn > a {
-    font-size: 1.5em;
-    display: block;
-    margin: 0 20px;
-    padding: 10px;
-    border: 2px solid #fff;
-    background-color: white;
-    color: white;
-  }
-  #xs-deliver {
-    margin-top: 5px;
-    font-size: .7em;
-    letter-spacing: .1em;
-    text-transform: uppercase;
-  }
   /* End Header */
 
   /* Home Page */
@@ -404,8 +388,11 @@ body {
               margin-left: 20%; 
         } 
     } 
-
-
+   @media (max-width: 499px){ 
+        div.circle { 
+              margin-left:20%; 
+        } 
+    } 
 /**Cards **/
 .card {
   /* Add shadows to create the "card" effect */
@@ -487,7 +474,7 @@ a{text-decoration:none}
 /* User Panel*/
 
 .profile-header{
-  height: 300px;
+  height: 220px;
   width: 100%;
   background-color: #EBF6FA;
 }
