@@ -389,11 +389,11 @@ body {
         } 
     } 
 
-  @media (max-width: 463px){ 
-        div.containerbatt { 
-              margin-left:4%; 
-        } 
-    } 
+	  @media (max-width: 499px){ 
+		div.containerbatt { 
+		      margin-left:10%; 
+		} 
+	    } 
 /**Cards **/
 .card {
   /* Add shadows to create the "card" effect */
