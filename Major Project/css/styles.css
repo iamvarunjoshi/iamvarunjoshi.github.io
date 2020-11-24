@@ -380,12 +380,12 @@ body {
 
   @media (max-width: 949px) and (min-width:640px){ 
         div.containerbatt { 
-              margin-left:25%; 
+              margin-left:25.5%; 
         } 
     } 
   @media (max-width: 640px) and (min-width:500px){ 
         div.containerbatt { 
-              margin-left:14%; 
+              margin-left:15.4%; 
         } 
     } 
 
