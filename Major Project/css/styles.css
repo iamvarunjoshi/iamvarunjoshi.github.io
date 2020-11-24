@@ -19,7 +19,7 @@
         width: 100%; 
     } 
     
-    /* set a hover effect for the button*/ 
+
     button:hover { 
         opacity: 0.8; 
     } 
@@ -389,7 +389,7 @@ body {
         } 
     } 
    @media (max-width: 499px){ 
-        div.circle { 
+        div.containerbatt{ 
               margin-left:20%; 
         } 
     } 
@@ -490,6 +490,7 @@ a{text-decoration:none}
   width: 30%;
   height: 200px;
 }
+
 .user-image img{
   width: 100%;
   height: 100%;
