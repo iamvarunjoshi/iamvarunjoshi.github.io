@@ -378,15 +378,20 @@ body {
   transform: translateY(-50%);
 }
 
-  @media (max-width: 499px) and (min-width:463px){ 
+  @media (max-width: 949px) and (min-width:640px){ 
         div.containerbatt { 
-              margin-left:10%; 
+              margin-left:25%; 
+        } 
+    } 
+  @media (max-width: 640px) and (min-width:500px){ 
+        div.containerbatt { 
+              margin-left:14%; 
         } 
     } 
 
   @media (max-width: 463px){ 
         div.containerbatt { 
-              margin-left:5%; 
+              margin-left:3%; 
         } 
     } 
 /**Cards **/
