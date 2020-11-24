@@ -385,13 +385,13 @@ body {
     } 
   @media (max-width: 640px) and (min-width:500px){ 
         div.containerbatt { 
-              margin-left:15.4%; 
+              margin-left:16%; 
         } 
     } 
 
   @media (max-width: 463px){ 
         div.containerbatt { 
-              margin-left:3.5%; 
+              margin-left:4%; 
         } 
     } 
 /**Cards **/
