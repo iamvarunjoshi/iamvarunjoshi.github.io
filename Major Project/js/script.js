@@ -1,4 +1,17 @@
-            var i = 0 , prec;
+/* navbar toggle*/
+$(function () { 
+  $("#navbarToggle").blur(function (event) {
+    var screenWidth = window.innerWidth;
+    if (screenWidth < 768) {
+      $("#collapsable-nav").collapse('hide');
+    }
+  });
+  $("#navbarToggle").click(function (event) {
+    $(event.target).focus();
+  });
+});           
+
+	    var i = 0 , prec;
             var degs = $("#prec").attr("class").split(' ')[1];
             var activeBorder = $("#activeBorder");
 
