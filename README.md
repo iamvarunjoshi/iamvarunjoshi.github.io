@@ -20,7 +20,8 @@
 [Simple HTML CSS JS game](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/JavaScript_Game/Index.html)
 ### College Porject
 [Solar Powered Ev Charging station](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/Major%20Project/majorproject.html)
-
+### Side Porject
+[website using API](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/Udacity_NYT&Wikipedia_API/minicourse-ajax-project/index.html)
 
 ### weekly Goals
 - [ ] Create my webpage
