@@ -19,7 +19,7 @@ function loadData() {
 
     // load streetview
     var streetviewUrl = 'http://maps.googleapis.com/maps/api/streetview?size=600x400&location=' + address + '';
-    $body.append('<img class="bgimg" src="' + streetviewUrl + '">');
+   
 
 
     // load nytimes
