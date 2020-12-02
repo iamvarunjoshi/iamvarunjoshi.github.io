@@ -18,9 +18,8 @@ function loadData() {
     $greeting.text('So, you want to live at ' + address + '?');
 
     // load streetview
-    var streetviewUrl = 'http://maps.googleapis.com/maps/api/streetview?size=600x400&location=' + address + '';
-   
-
+   // var streetviewUrl = 'http://maps.googleapis.com/maps/api/streetview?size=600x400&location=' + address + '';
+   // $body.append('<img class="bgimg" src="' + streetviewUrl + '">');
 
     // load nytimes
 	var nytimesUrl='https://api.nytimes.com/svc/search/v2/articlesearch.json?q=' + cityStr + '&sort=newest&api-key=ZmcxDm22TYVBaqbmtATGf9AbfNhflQuS'
@@ -46,7 +45,7 @@ function loadData() {
 			var wikiUrl = 'http://en.wikipedia.org/w/api.php?action=opensearch&search=' + cityStr + '&format=json&callback=wikiCallback';
 			var wikiRequestTimeout = setTimeout(function(){
 				$wikiElem.text("failed to get wikipedia resources");
-			}, 12000);
+			}, 48000);
 
 			$.ajax({
 				url: wikiUrl,
