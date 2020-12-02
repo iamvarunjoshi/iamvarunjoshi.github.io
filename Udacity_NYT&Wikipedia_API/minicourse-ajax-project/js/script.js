@@ -42,7 +42,7 @@ function loadData() {
 		
 		//Wikipedia Requests
 	    // load wikipedia data
-			var wikiUrl = 'http://en.wikipedia.org/w/api.php?action=opensearch&search=' + cityStr + '&format=json&callback=wikiCallback';
+			var wikiUrl = 'https://en.wikipedia.org/w/api.php?action=opensearch&search=' + cityStr + '&format=json&callback=wikiCallback';
 			var wikiRequestTimeout = setTimeout(function(){
 				$wikiElem.text("failed to get wikipedia resources");
 			}, 48000);
@@ -56,7 +56,7 @@ function loadData() {
 
 					for (var i = 0; i < articleList.length; i++) {
 						articleStr = articleList[i];
-						var url = 'http://en.wikipedia.org/wiki/' + articleStr;
+						var url = 'https://en.wikipedia.org/wiki/' + articleStr;
 						$wikiElem.append('<li><a href="' + url + '">' + articleStr + '</a></li>');
 					};
 					//error handling is not available in jsonp
