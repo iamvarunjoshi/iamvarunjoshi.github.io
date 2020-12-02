@@ -22,6 +22,8 @@
 [Solar Powered Ev Charging station](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/Major%20Project/majorproject.html)
 ### Side Porject
 [website using API](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/Udacity_NYT&Wikipedia_API/minicourse-ajax-project/index.html)
+### Static Template Webpage
+[Dummy template](https://iamvarunjoshi.github.io/iamvarunjoshi.github.io/DummyTemplate/index.html)
 
 ### weekly Goals
 - [ ] Create my webpage
